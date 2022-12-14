@@ -152,31 +152,30 @@ section {
 .section-square-f {
     height: 580px;
     width: 930px;
-    background-color: red;
 }
 
 .section-square-a {
-    background: url(/img/square-a.jpg) center center;
+    background: url(img/square-a.jpg) center center;
 }
 
 .section-square-b {
-    background: url(/img/square-b.jpg) center center;
+    background: url(img/square-b.jpg) center center;
 }
 
 .section-square-c {
-    background: url(/img/square-c.jpg) center center;
+    background: url(img/square-c.jpg) center center;
 }
 
 .section-square-d {
-    background: url(/img/square-d.jpg) center center;
+    background: url(img/square-d.jpg) center center;
 }
 
 .section-square-e {
-    background: url(/img/square-e.jpg) center center;
+    background: url(img/square-e.jpg) center center;
 }
 
 .section-square-f {
-    background: url(/img/square-f.jpg) center center;
+    background: url(img/square-f.jpg) center center;
 }
 
 .squares {
